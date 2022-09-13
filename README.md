@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Amir 👋
 
-<!--
-**bakarov/bakarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[work in progress here]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work experience 👔
+
+| Work Period                | Job Position              | Company        | Team / Field                    |
+| -------------------------- | ---------------------     | -------------- | ------------------------------- |
+
+More about work experience in my [CV](work_in_progress)
+
+### Skills 🛠️
+
+![Python](https://img.shields.io/badge/Python-Experienced-_.svg?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-User-_.svg?logo=pytorch)
+
+
+---
+
+### Github Stats ⭐
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakarov&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![bakarov github stats](https://github-readme-stats.vercel.app/api?username=bakarov&show_icons=true&hide=prs,contribs&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
